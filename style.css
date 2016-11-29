@@ -1,0 +1,44 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #d6d6d6;
+    margin: 0px;
+    padding: 0px;
+}
+
+#searchbar {
+    background-color: #ececec;
+    height: 80px;
+}
+
+input[type=text] {
+    border-radius: 4px;
+    height: 30px;
+    border: none;
+    margin: 12px 0 0 20px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+}
+
+input[type=submit] {
+    background-color: #4e5068;
+    color: white;
+    border-radius: 4px;
+    height: 54px;
+    border: none;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#toolbar {
+    background-color: #4e5068;
+    height: 56px;
+    margin-bottom: 20px;
+}
+
+#homepageInfo {
+    width: 1000px;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
